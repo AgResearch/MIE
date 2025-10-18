@@ -1,0 +1,44 @@
+
+Potential of maximal progress for methane and the production indices
+
+Flock: B+LNZ Genetics Flock 2638
+Number of Rams: 744
+Date Job Run: 9-Dec-2024
+Job No.: 2434492
+Job Birth Period: 2021 to 2021
+
+Traits used for index
+ [1] "WWTgBV"  "WWTMgBV" "CWgBV"   "EWTgBV"  "NLBgBV"  "SURgBV"  "SURMgBV" "FEC1gBV" "FEC2gBV" "AFECgBV"
+[11] "ADAGgBV" "LDAGgBV" "LNLYgBV" "HQLYgBV" "SHLYgBV" "CWYgBV" 
+
+Economic values used for NZMW plus index traits (¢)
+  WWTgBV WWTMgBV CWgBV EWTgBV NLBgBV SURgBV SURMgBV FEC1gBV FEC2gBV AFECgBV ADAGgBV LDAGgBV LNLYgBV HQLYgBV
+1    153     145   480   -158   3367  16049   15008    -6.8    -6.8    -5.2     -64     -64     724     579
+  SHLYgBV CWYgBV
+1     435    480
+
+Economic values used for CH4 ($/tonne CO2e)
+
+   $/tonne CO2e
+1:            0
+2:           25
+3:           50
+4:           75
+5:          100
+6:          125
+
+skewness of PACCH4gBV[1] 0.1277
+
+kurtosis of PACCH4gBV[1] 2.994536
+
+
+	Shapiro-Wilk normality test
+
+data:  data$PACCH4gBV
+W = 0.99677, p-value = 0.3821
+
+
+standard deviation of PACCH4gBV[1] 0.4558378
+
+standard deviation of & CH4-BV%[1] 6.077837
+
